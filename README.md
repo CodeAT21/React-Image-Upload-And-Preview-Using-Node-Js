@@ -7,10 +7,15 @@ npm install axios
 ### `NodeJs — Setting Up the Project`
 
 npm init
+
 npm install cors
+
 npm install express
+
 npm install --save multer
+
 npm install --save mysql2
+
 npm install -g nodemon
 
 
