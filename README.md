@@ -21,7 +21,7 @@ npm install -g nodemon
 
 ### Demo
 
-<a href="https://youtu.be/EdkBNqHxw5Y" rel="nofollow"> Live Demo </a>
+<a href="https://youtu.be/1KZ-tJRLU5I" rel="nofollow"> Live Demo </a>
 
 ### Website
 <a href="https://codeat21.com/2021/03/28/react-image-upload-and-preview/" rel="nofollow"> Website </a>
